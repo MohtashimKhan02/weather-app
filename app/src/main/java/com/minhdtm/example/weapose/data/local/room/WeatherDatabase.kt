@@ -9,5 +9,6 @@ abstract class WeatherDatabase : RoomDatabase() {
 
     companion object {
         const val database_name = "weather_database"
+        
     }
 }
